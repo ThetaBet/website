@@ -1,0 +1,12 @@
+:root {
+    --white-snow: #FEFCFB;
+    --pale-black: #292929;
+    --sardinian-blue-sea: #2CBDEE;
+    --viva-magenta: #BB2649;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', 'sans-serif';
+}
